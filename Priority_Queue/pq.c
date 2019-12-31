@@ -76,7 +76,7 @@ void pop()
       return;
     }
    }
-    else{index--;}
+    else index--;
   }
 }
 
