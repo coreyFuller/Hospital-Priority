@@ -80,7 +80,7 @@ void pop()
   }
 }
 
-Node * top()
+Node * top(Node * head)
 {
   if(head == NULL) return NULL;
   else return head;
